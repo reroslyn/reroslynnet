@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reroslyn_analyzer", "reroslyn-analyzer\reroslyn_analyzer\reroslyn_analyzer.csproj", "{966C62C1-A8C3-4219-8497-401DF2541A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reroslyn_analyzer.Test", "reroslyn-analyzer\reroslyn_analyzer.Test\reroslyn_analyzer.Test.csproj", "{58A40A30-C73C-4487-A0CB-94840196EC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966C62C1-A8C3-4219-8497-401DF2541A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966C62C1-A8C3-4219-8497-401DF2541A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966C62C1-A8C3-4219-8497-401DF2541A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966C62C1-A8C3-4219-8497-401DF2541A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A40A30-C73C-4487-A0CB-94840196EC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A40A30-C73C-4487-A0CB-94840196EC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A40A30-C73C-4487-A0CB-94840196EC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A40A30-C73C-4487-A0CB-94840196EC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
